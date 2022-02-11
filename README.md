@@ -6,4 +6,4 @@
 
 # Application Screenshots(Android):
 
-<img src="https://github.com/ervinod/greentick_assignment/tree/master/screenshots/screenshot.jpg" width="300"><img src="https://github.com/ervinod/xcelpros_task/blob/master/screenshots/XcelPros%20Task.gif" width="320" height="650"/>
+<img src="https://github.com/ervinod/greentick_assignment/blob/master/screenshots/screenshot.jpg" width="300"><video src='https://github.com/ervinod/greentick_assignment/blob/master/screenshots/video_sample.mp4' width=180/> | <video src='video2.mp4' width=180/>
